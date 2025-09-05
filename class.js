@@ -1,7 +1,7 @@
 /**
  * class ---> templates
  * properties
- * method (a spetial type of function without using function keyword)
+ * method (a special type of function without using function keyword)
  * 
  * 
  * 
